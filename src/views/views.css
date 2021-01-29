@@ -1,0 +1,26 @@
+
+
+.dashboardBackground {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.dashboardBackgroundCard {
+    padding: 20px;
+    background-color: #F5F5F5;
+}
+
+.dashboardCardLarge {
+    padding: 20px;
+}
+
+.dashboardBarChartCard {
+    height: 100%;
+}
+
+.dashboardTableText {
+    text-align: center;
+    font-weight: bold;
+}
