@@ -1,5 +1,7 @@
 
-
+/******************
+dashboard page
+*************************/
 .dashboardBackground {
     padding-left: 20px;
     padding-right: 20px;
@@ -23,4 +25,28 @@
 .dashboardTableText {
     text-align: center;
     font-weight: bold;
+}
+
+
+/******************
+sign in page
+*************************/
+.signinBackground {
+    display: flex;
+    align-items: center;
+    padding-top: 80px;
+}
+
+.signinp {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.signinh4 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.signinButton {
+    width: 100%;
 }
