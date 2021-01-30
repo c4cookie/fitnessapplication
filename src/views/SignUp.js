@@ -1,5 +1,5 @@
 import React from 'react';
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import './views.css'
 
 class SignUp extends React.Component {
@@ -21,7 +21,7 @@ class SignUp extends React.Component {
 
     Submit = () => {
         //sign up the user here
-        console.log(this.state);
+        console.log(this.state)
     }
 
     render() {
@@ -74,8 +74,8 @@ class SignUp extends React.Component {
                                 </div>
                                 <div className="col s12">
                                      <p 
-                                        className="signinp"> already have an account? 
-                                        <Link style={{color: 'red', textTransform: 'lowercase'}} to="/signup"> sign in here </Link>
+                                        className="signinp"> already have an account?
+                                        <Link style={{color: 'red', textTransform: 'lowercase'}} to="/signin"> sign in here </Link>
                                      </p>
                                 </div>
                             </div>
