@@ -128,7 +128,7 @@ class Dashboard extends React.Component {
 
                        <div className="col l6 s12">
                            <div className="card large dashboardCardLarge">
-                               <h5 className="dashboardTableText">Agreed Daily Goal </h5>
+                               <h5 className="dashboardTableText">AGREED DAILY GOAL </h5>
                                     <table className="centered">
                                         <thead>
                                         <tr>
@@ -140,7 +140,7 @@ class Dashboard extends React.Component {
 
                                         <tbody>
                                         <tr>
-                                            <td>Caleries</td>
+                                            <td>Calories</td>
                                             <td>800</td>
                                             <td>600</td>
                                         </tr>
