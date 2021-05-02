@@ -4,6 +4,7 @@ import { ResponsiveBar } from '@nivo/bar'
 
 class Dashboard extends React.Component {
     render() {
+       
 
         let data = [
             {
